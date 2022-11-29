@@ -1,6 +1,4 @@
-### Hi there 👋
-
-👋 Hi, my name is Marko Onyskiv
+# 👋 Hi, my name is Marko Onyskiv
 ==============================
 
 * 🌍 I'm based in Boston, MA
