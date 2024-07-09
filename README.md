@@ -1,9 +1,8 @@
 # 👋 Hi, my name is Marko Onyskiv
 ==============================
 
-* 🌍 I'm based in Boston, MA
-* 🌱 I’m currently learning React and Rails
-* 🚀 I'm currently working on [Where's my Hill?](https://mountaindex.onrender.com/)
+* 🌍 I'm based in New York, NY
+* 🌱 I’m currently working with Angular and Java
 * 💞️ I’m looking to collaborate on web app development
 * 🏂 Proud snowboarder
 * 🍲 Perogie & Borscht consumer
